@@ -1,4 +1,4 @@
-# `github.com/tantalic/dropbox`
+# `tantalic.com/dropbox`
 
 A simple, incomplete [Dropbox API v2][db-api] client in [Go][go].
 
